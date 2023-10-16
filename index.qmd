@@ -1,5 +1,15 @@
 ---
 title: "Home"
+about:
+  template: jolla
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:auke9230@colorado.edu
+    - icon: github
+      text: Github
+      href: https://github.com/austinkennedy
+
 ---
 
 Welcome to my website! My name is Austin Kennedy, I am an economics PhD student at the University of Colorado--Boulder researching the intersection between development, international finance, culture, and technology.
