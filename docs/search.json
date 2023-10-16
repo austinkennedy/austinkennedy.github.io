@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Austin Kennedy",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my website! My name is Austin Kennedy, I am an economics PhD student at the University of Colorado–Boulder researching the intersection between development, international finance, culture, and technology."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Fiscal Spillovers Through Informal Financial Channels\nDoes Business Culture Travel? The Case of Worker Safety.\nEnlightenment Ideals and Belief in Science in the Run-up to the Industrial Revolution: A Textual Analysis"
   }
 ]
