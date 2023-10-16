@@ -1,5 +1,5 @@
 ---
-title: "austinkennedy.github.io"
+title: "Austin Kennedy"
 ---
 
 This is a Quarto website.
