@@ -10,6 +10,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/austinkennedy
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/austin-kennedy-530387162/
     - icon: filetype-pdf
       text: CV
       href: images/CV_AustinKennedy.pdf

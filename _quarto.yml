@@ -19,7 +19,8 @@ website:
         href: mailto:auke9230@colorado.edu
       - icon: github
         href: https://github.com/austinkennedy
-
+      - icon: linkedin
+        href: https://www.linkedin.com/in/austin-kennedy-530387162/
 
 format:
   html:
