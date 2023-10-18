@@ -1,7 +1,8 @@
 ---
-title: "Home"
+title: Austin Kennedy
+image: images/profile.png
 about:
-  template: jolla
+  template: trestles
   links: 
     - icon: envelope
       text: Email
@@ -12,4 +13,13 @@ about:
 
 ---
 
-Welcome to my website! My name is Austin Kennedy, I am an economics PhD student at the University of Colorado--Boulder researching the intersection between development, international finance, culture, and technology.
+## About
+
+Welcome to my website! My name is Austin Kennedy, I am an economics PhD candidate at the University of Colorado--Boulder researching the intersection between development, international finance, culture, and technology.
+
+I am an expert in causal inference and applied econometrics with a passion for applying economics and causal inference tools to real-world problems to develop data-driven solutions. I am a perpetual learner hoping to deepen my experience in causal machine learning and big data. 
+
+I previously interned as an economist for Amazon during Summer 2023, where I worked on a project to estimate downstream impacts in a murky empirical environment and delivered informative and impactful results to business stakeholders.
+
+
+
