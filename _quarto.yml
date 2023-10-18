@@ -8,7 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - research.qmd
+      - href: research.qmd
+        text: Research
+      - href: images/CV_AustinKennedy.pdf
+        text: CV
 
 format:
   html:
