@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Austin Kennedy"
+  favicon: images/favicon.png
   navbar:
     left:
       - href: index.qmd
