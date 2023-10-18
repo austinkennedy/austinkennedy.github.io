@@ -12,6 +12,13 @@ website:
         text: Research
       - href: images/CV_AustinKennedy.pdf
         text: CV
+        
+    right:
+      - icon: envelope
+        href: mailto:auke9230@colorado.edu
+      - icon: github
+        href: https://github.com/austinkennedy
+
 
 format:
   html:
@@ -19,7 +26,27 @@ format:
       light: flatly
       dark: darkly
     css: styles.css
-    toc: true
+    toc: false
+    tags:
+    - Austin Kennedy
+    - Github Pages
+    - Economics
+    - PhD Candidate
+    - PhD Economics
+    - Econometrics
+    - Applied Microeconomics
+    - Applied Econometrics
+    - Applied Microeconometrics
+    - Causal Inference
+    - Causal ML
+    - Causal Machine Learning
+    - Academic
+    - Economist
+    - Economist Intern
+    - Amazon
+    - Data Science
+    - Cryptocurrency
+    - FDI
 
 
 
