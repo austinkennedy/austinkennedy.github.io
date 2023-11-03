@@ -1,6 +1,6 @@
 ---
 title: Austin Kennedy
-image: images/profile.png
+image: images/professional_headshot.jpg
 about:
   template: trestles
   links: 
