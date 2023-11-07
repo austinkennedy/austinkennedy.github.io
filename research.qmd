@@ -2,8 +2,38 @@
 title: "Research"
 ---
 
-1. Fiscal Spillovers Through Informal Financial Channels
+[//]: # Credit to Rimjhim Saxena and her website source code for collapsable abstracts. Seen at https://github.com/rimjhimsaxena/rimjhimsaxena.github.io
 
-2. Does Business Culture Travel? The Case of Worker Safety.
+## Working Papers
 
-3. Enlightenment Ideals and Belief in Science in the Run-up to the Industrial Revolution: A Textual Analysis
+* **Enlightenment Ideals and Belief in Science in the Run-up to the Industrial Revolution: A Textual Analysis** with Ali Almelhem, Murat Iyigun, and Jared Rubin
+
+<details>
+
+<summary>Abstract</summary>
+
+*The primary issue plaguing studies of the cultural “deep roots” of economic growth is tracking how culture changes over time. This is particularly true of accounts of Britain’s industrialization—arguably the most important historical episode driving long-run growth. Such accounts highlight how British culture evolved during the Enlighten- ment in ways which manifested a heightened belief in the possibility that scientific and industrial pursuits could benefit humanity. This paper tests these cultural evolution claims using textual analysis of 173,031 works printed in England between 1500 and 1900. Employing algorithms to classify volumes and determine their sentiment related to progress, the analysis yields three primary findings. First, there was little overlap in the language of science and religion beginning in the 17th century. Second, while sci- entific volumes did become more progress-oriented during the Enlightenment, this was most prevalent in volumes found at the nexus of science and political economy. Third, works related to industry were more progress-oriented beginning in the 17th century, and this is especially true of volumes at the science-political economy nexus. This sug- gests that it was the more pragmatic works related to industry—those that spoke to both a scientific as well as a broader audience of artisans and skilled craftsmen—that reflected the cultural values cited as important for Britain’s economic rise.*
+
+</details>
+
+## Works In Progress
+
+* **Fiscal Spillovers Through Informal Financial Channels.**
+
+<details>
+
+<summary>Abstract</summary>
+
+*The extent to which fiscal policy in one country affects another country is not well-understood. This paper investigates fiscal spillovers out of the United States following the first round of direct fiscal stimulus in response to the COVID-19 pandemic, through a previously unexplored informal financial channel: cryptocurrency. Using transaction-level cryptocurrency data and an algorithm to discover cross-border cryptocurrency transactions, this paper documents significant international financial outflows from the US through cryptocurrency, with a large majority of flows destined for low- and lower-middle income countries. Interestingly, using a difference-in-differences methodology, this paper finds no evidence that cryptocurrency outflows from the US increased relative to those from other countries in response to the stimulus checks.*
+
+</details>
+
+* **Does Business Culture Travel? The Case of Worker Safety.**
+
+<details>
+
+<summary>Abstract</summary>
+
+*This paper investigates the effect of foreign direct investment (FDI) into the US on workplace safety outcomes, as well as heterogeneity by source country and source country workplace safety outcomes. This paper utilizes detailed, plant-level panel data on workplace injuries and deaths combined with panel regressions to estimate the impact of FDI on workplace safety. There are two main findings so far. First, workplace injuries in the US have generally trended downwards over time as FDI has increased. Second, FDI tends to flow into industries with better workplace safety outcomes. Future work will look at heterogeneity by state and source country workplace safety.*
+
+</details>
