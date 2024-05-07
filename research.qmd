@@ -6,6 +6,16 @@ title: "Research"
 
 ## Working Papers
 
+* [**Fiscal Spillovers Through Informal Financial Channels.**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4815658)
+
+<details>
+
+<summary>Abstract</summary>
+
+*This paper examines fiscal policy spillovers through informal international financial channels, using the US stimulus checks as a positive, sudden, and direct fiscal shock. I utilize granular, transaction-level cryptocurrency data combined with an algorithm to probabilistically identify cross-border “crypto vehicle” transactions to construct bilateral cryptocurrency flows between countries. Using a difference-in-differences strategy, I compare cryptocurrency outflows between the US and other high-income countries and find that cryptocurrency outflows from the US increased to middle- and high-income countries by 17% and 16%, respectively, in response to the stimulus. This provides the first evidence of fiscal spillovers operating through informal remittance channels.*
+
+</details>
+
 * [**Enlightenment Ideals and Belief in Science in the Run-up to the Industrial Revolution: A Textual Analysis**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668604) with Ali Almelhem, Murat Iyigun, and Jared Rubin
 
 <details>
@@ -16,24 +26,12 @@ title: "Research"
 
 </details>
 
-## Works In Progress
-
-* **Fiscal Spillovers Through Informal Financial Channels.**
+* [**Does Business Culture Travel? The Case of Worker Safety.**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4815767)
 
 <details>
 
 <summary>Abstract</summary>
 
-*The extent to which fiscal policy in one country affects another country is not well-understood. This paper investigates fiscal spillovers out of the United States following the first round of direct fiscal stimulus in response to the COVID-19 pandemic, through a previously unexplored informal financial channel: cryptocurrency. Using transaction-level cryptocurrency data and an algorithm to discover cross-border cryptocurrency transactions, this paper documents significant international financial outflows from the US through cryptocurrency, with a large majority of flows destined for low- and lower-middle income countries. Interestingly, using a difference-in-differences methodology, this paper finds no evidence that cryptocurrency outflows from the US increased relative to those from other countries in response to the stimulus checks.*
-
-</details>
-
-* **Does Business Culture Travel? The Case of Worker Safety.**
-
-<details>
-
-<summary>Abstract</summary>
-
-*This paper investigates the effect of foreign direct investment (FDI) into the US on workplace safety outcomes, as well as heterogeneity by source country and source country workplace safety outcomes. This paper utilizes detailed, plant-level panel data on workplace injuries and deaths combined with panel regressions to estimate the impact of FDI on workplace safety. There are two main findings so far. First, workplace injuries in the US have generally trended downwards over time as FDI has increased. Second, FDI tends to flow into industries with better workplace safety outcomes. Future work will look at heterogeneity by state and source country workplace safety.*
+*This paper examines the effect of inward foreign direct investment (FDI) into the United States on workplace safety outcomes. I combine data on workplace injuries in the US with FDI flows by industry. Using panel regressions, I find evidence of two competing effects of FDI: one that increases competition in an industry, leading to worse workplace safety outcomes, and one that promotes positive spillovers between foreign-owned and domestic firms, improving workplace safety outcomes. I do not find any evidence that the effect of FDI on workplace safety depends on the source of FDI.*
 
 </details>
