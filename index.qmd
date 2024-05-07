@@ -12,11 +12,10 @@ about:
       href: https://github.com/austinkennedy
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/austin-kennedy-530387162/
+      href: https://www.linkedin.com/in/austin-kennedy-ph-d-530387162/
     - icon: filetype-pdf
       text: CV
       href: images/CV_AustinKennedy.pdf
-
 ---
 
 ## About
@@ -28,6 +27,3 @@ I am an expert in causal inference and applied econometrics with a passion for a
 I previously interned as an economist for Amazon during Summer 2023, where I worked on a project to estimate downstream impacts in a murky empirical environment and delivered informative and impactful results to business stakeholders. At Amazon I found my passion for leveraging detailed data combined with cutting-edge statistical tools to drive evidence-based decision making.
 
 As a native Coloradoan, I enjoy spending time in the great outdoors with my wife and dog via hiking and skiing. I am in an endless pursuit for the perfect cup of coffee and enjoy trying coffee from a variety of roasters. I also follow meteorology as a hobbyist and have occasionally tried my hand at (cautiously) storm chasing!
-
-
-
