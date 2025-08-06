@@ -4,25 +4,27 @@ title: "Research"
 
 [//]: # Credit to Rimjhim Saxena and her website source code for collapsable abstracts. Seen at https://github.com/rimjhimsaxena/rimjhimsaxena.github.io 
 
-## Working Papers
+## Publications
 
-* [**Fiscal Spillovers Through Informal Financial Channels.**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4815658)
+* [**Fiscal Spillovers Through Informal Financial Channels. **](https://doi.org/10.1016/j.jimonfin.2025.103378) *Journal of International Money and Finance*, 157: 1033-78 [PDF](images/Fiscal_Spillovers_through_Informal_Financial_Channels__Preprint_.pdf)
 
 <details>
 
 <summary>Abstract</summary>
 
-*This paper examines fiscal policy spillovers through informal international financial channels, using the US stimulus checks as a positive, sudden, and direct fiscal shock. I utilize granular, transaction-level cryptocurrency data combined with an algorithm to probabilistically identify cross-border “crypto vehicle” transactions to construct bilateral cryptocurrency flows between countries. Using a difference-in-differences strategy, I compare cryptocurrency outflows between the US and other high-income countries and find that cryptocurrency outflows from the US increased to middle- and high-income countries by 17% and 16%, respectively, in response to the stimulus. This provides the first evidence of fiscal spillovers operating through informal remittance channels.*
+*This paper examines fiscal policy spillovers through informal international financial channels, using the US stimulus checks as a positive, sudden, and direct fiscal shock. I utilize granular, transaction-level cryptocurrency data combined with an algorithm to probabilistically identify cross-border “crypto vehicle" transactions to construct bilateral cryptocurrency flows between countries. Using a difference-in-differences strategy, I compare cryptocurrency outflows between the US and other high-income countries and find a sharp but temporary increase in cryptocurrency outflows as a result of the direct stimulus. I quantify the fiscal spillover relative to expenditure and place an upper bound of 2.52% through this channel. This implies that fiscal spillovers through remittance channels are likely modest in size.*
 
 </details>
 
-* [**Enlightenment Ideals and Belief in Science in the Run-up to the Industrial Revolution: A Textual Analysis**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668604) with Ali Almelhem, Murat Iyigun, and Jared Rubin
+## Working Papers
+
+* [**Enlightenment Ideals and Belief in Science in the Run-up to the Industrial Revolution: A Textual Analysis**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668604) with Ali Almelhem, Murat Iyigun, and Jared Rubin. *R&R at the Quarterly Journal of Economics.*
 
 <details>
 
 <summary>Abstract</summary>
 
-*Using textual analysis of 173,031 works printed in England between 1500 and 1900, we test whether British culture evolved to manifest a heightened belief in progress associated with science and industry. Our analysis yields three main findings. First, there was a separation in the language of science and religion beginning in the 17th century. Second, scientific volumes became more progress-oriented during the Enlightenment. Third, industrial works, especially those at the science-political economy nexus, were more progress-oriented beginning in the 17th century. It was therefore the more pragmatic, industrial works which reflected the cultural values cited as important for Britain's takeoff.*
+*We trace the evolution of the language of science, religion, and political economy in the centuries leading to the British Industrial Revolution. Using textual analysis of 264,443 works printed in England between 1500 and 1900, we test whether British culture manifested a belief in progress associated with science and industry. Our analysis yields three main findings. First, there was a separation in the languages of science and religion beginning in the mid-18th century. Second, volumes using language at the nexus of science and political economy became more progress-oriented during the Enlightenment. Third, volumes using industrial language-especially those at the science-political economy nexus-were more progress-oriented beginning in the 18th century.*
 
 </details>
 

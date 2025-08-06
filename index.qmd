@@ -20,9 +20,9 @@ about:
 
 ## About
 
-Welcome to my website! My name is Austin Kennedy, I am an economics PhD graduate from the University of Colorado--Boulder with research on the intersection between development, international finance, culture, and technology.
+Welcome to my website! My name is Austin Kennedy, I am an economist at NRG Energy working on the most challenging problems at the frontier of the energy industry. I received my PhD from University of Colorado–Boulder in 2024 and have expertise in experimentation (A/B Testing), causal inference, machine learning, and generative AI. I have performed academic research on international finance, culture, and technology, with a publication in the *Journal of International Money and Finance* and an R&R at the *Quarterly Journal of Economics*.
 
-I am an expert in causal inference and applied econometrics with a passion for applying economics and causal inference tools to real-world problems to develop data-driven solutions. I am a perpetual learner with additional expertise in machine-learning and online experimentation.
+I am passionate about driving high-value decision making using data combined with expert research design and analysis. My work at NRG has informed high-stakes decisions ranging from energy trading strategy, Generative AI implementation, and real-time power plant operations.
 
 I previously interned as an economist for Amazon during Summer 2023, where I worked on a project to estimate downstream impacts in a murky empirical environment and delivered informative and impactful results to business stakeholders. At Amazon I found my passion for leveraging detailed data combined with cutting-edge statistical tools to drive evidence-based decision making.
 
